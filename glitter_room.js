@@ -32,5 +32,5 @@ getData();
 function gotoroom(name) {
       console.log(name);
       localStorage.setItem("roomname",name);
-      window.location="inaroom.html";
+      window.location="glitter_page.html";
 }
